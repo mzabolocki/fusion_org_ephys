@@ -1,0 +1,1 @@
+Scripts used for CaImAn extractions from .tiff files. 

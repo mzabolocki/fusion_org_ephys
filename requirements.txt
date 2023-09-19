@@ -1,0 +1,9 @@
+jupyter 
+scipy 
+numpy 
+scikit-learn
+matplotlib
+tqdm
+openpyxl
+pandas<2.0.0
+spikeinterface==0.96.1
