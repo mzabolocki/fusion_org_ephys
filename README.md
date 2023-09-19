@@ -58,8 +58,8 @@ Development version
 To get the current development version in one of your environments, first clone this repository:
 
 ```
-git clone https://github.com/mzabolocki/fusion_org_ephys
-cd fusion_org_ephys
+git clone https://github.com/mzabolocki/miscos_ephys
+cd miscos_ephys
 pip install -r requirements.txt
 pip install -r requirements_dev.txt
 ```
@@ -67,8 +67,8 @@ pip install -r requirements_dev.txt
 or alternatively: 
 
 ```
-git clone https://github.com/mzabolocki/fusion_org_ephys
-cd fusion_org_ephys
+git clone https://github.com/mzabolocki/miscos_ephys
+cd miscos_ephys
 pip install -e .
 ```
 
@@ -96,8 +96,8 @@ For development version, you can set-up a venv using the following example:
 
 **for macos**
 ```
-python3 -m venv fusion_org 
-source fusion_org/bin/activate
+python3 -m venv miscos_ephys_venv 
+source miscos_ephys_venv/bin/activate
 
 pip install -r requirements.txt
 pip install -r requirements_dev.txt
@@ -129,19 +129,19 @@ Analysis
 
 An example notebook is shown for the following: 
 
-[MUA spike extractions](https://github.com/mzabolocki/fusion_org_ephys/blob/main/analysis/mua_spikes/mua_spikes.ipynb): 
+[MUA spike extractions](https://github.com/mzabolocki/miscos_ephys/blob/main/analysis/mua_spikes/mua_spikes.ipynb): 
 > 1. binary file loading and preprocessing
 > 2. mua spike extractions
 > 3. metadata attachment
 > 4. feature quantifications (e.g. mean firing rates)
 > 5. raster plot generations
 
-[gCAMP peak finding](https://github.com/mzabolocki/fusion_org_ephys/blob/main/analysis/gcamp/gcamp_detect.ipynb): 
+[gCAMP peak finding](https://github.com/mzabolocki/miscos_ephys/blob/main/analysis/gcamp/gcamp_detect.ipynb): 
 > 1. example notebook for calcium-event peak finding
 
 Figures
 --------
-All notebooks used for figure generations were using data processed with analysis pipelines, and can be found [here](https://github.com/mzabolocki/fusion_org_ephys/blob/main/figures). 
+All notebooks used for figure generations were using data processed with analysis pipelines, and can be found [here](https://github.com/mzabolocki/miscos_ephys/blob/main/figures). 
 
 
 Code contributors
