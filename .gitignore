@@ -60,5 +60,4 @@ analysis/mua_spikes/notebooks/**
 # figure outputs
 figures/supp_figures/**
 figures/main_figure/**
-figure_outputs/**
 figures/submissions/**
