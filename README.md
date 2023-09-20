@@ -1,4 +1,4 @@
-# <center> &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Knoblich_lab) ![py310 status](https://img.shields.io/badge/python3.10-supported-green.svg) ![Tests](https://github.com/mzabolocki/fusion_org_ephys/actions/workflows/tests.yml/badge.svg) </center>
+# <center> &nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Knoblich_lab) ![py status](https://img.shields.io/badge/python3.9+-supported-green.svg) ![Tests](https://github.com/mzabolocki/miscos_org/actions/workflows/tests.yml/badge.svg) </center>
 
 
 ventral midbrain-striatum-cortical organoid (MISCOs) electrophysiology
