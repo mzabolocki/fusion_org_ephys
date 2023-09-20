@@ -139,9 +139,9 @@ def analyze_single_file_using_caiman(fname):
         fname_mc1 = mc.fname_tot_els if pw_rigid else mc.fname_tot_rig
         if pw_rigid:
             bord_px = np.ceil(np.maximum(np.max(np.abs(mc.x_shifts_els)),
-                                     np.max(np.abs(mc.y_shifts_els)))).astype(np.int)
+                                     np.max(np.abs(mc.y_shifts_els)))).astype(int)
         else:
-            bord_px = np.ceil(np.max(np.abs(mc.shifts_rig))).astype(np.int)
+            bord_px = np.ceil(np.max(np.abs(mc.shifts_rig))).astype(int)
         plt.subplot(1, 2, 1); plt.imshow(mc.total_template_rig)  # % plot template
         plt.subplot(1, 2, 2); plt.plot(mc.shifts_rig)  # % plot rigid shifts
         plt.legend(['x shifts', 'y shifts'])
