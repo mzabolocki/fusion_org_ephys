@@ -9,7 +9,7 @@ Modules to filter for active channels.
 ###################################################################################################
 
 
-def filter_activechannels(spiketimes, timeinterval=[0, None], spk_count_thresh=10):
+def filter_activechannels(spiketimes, timeinterval=[0, None], spk_count_thresh=50):
     """
     Filter for active channels based on spike count within a time interval.
 
