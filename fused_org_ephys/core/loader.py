@@ -367,7 +367,7 @@ class LoadMUASpikes(LoadChannels):
         the std, calculated using the donoho method.
         The median method is used to calculate the threshold.
 
-        Spikes at detected > refractory periods, set at 1 millisecond.
+        Spikes at detected > refractory periods, set at 2 millisecond.
         """
 
         # ---------- metadata
