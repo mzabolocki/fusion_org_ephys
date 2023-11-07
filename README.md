@@ -58,8 +58,8 @@ Development version
 To get the current development version in one of your environments, first clone this repository:
 
 ```
-git clone https://github.com/mzabolocki/miscos_ephys
-cd miscos_ephys
+git clone https://github.com/mzabolocki/fusion_org_ephys
+cd fusion_org_ephys
 pip install -r requirements.txt
 pip install -r requirements_dev.txt
 ```
@@ -67,8 +67,8 @@ pip install -r requirements_dev.txt
 or alternatively: 
 
 ```
-git clone https://github.com/mzabolocki/miscos_ephys
-cd miscos_ephys
+git clone https://github.com/mzabolocki/fusion_org_ephys
+cd fusion_org_ephys
 pip install -e .
 ```
 
