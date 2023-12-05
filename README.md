@@ -8,6 +8,8 @@ Electrophysiology analysis on extracellular recordings from fusion ventral midbr
 
 Optogenetic stimulation was conducted using the open-source device, [Pulse Pal](https://open-ephys.org/pulsepal). Recordings were acquired using the [Open Ephys](https://open-ephys.org/) GUI. 
 
+Please find the published paper in Nature Methods [here](https://www.nature.com/articles/s41592-023-02080-x#article-info).
+
 Paper Abstract 
 --------
 
@@ -109,20 +111,10 @@ Paper Reference
 Please reference the paper via the following citation:
 
 ```
-Daniel Reumann (1,2), Christian Krauditsch (1), Maria Novatchkova (1), Edoardo Sozzi (3), Sakurako Nagumo Wong (1,2), Michael Zabolocki (4,5), Marthe Priouret (1), Balint Doleschall (1,2), Kaja I Ritzau-Reid (6), Marielle Piber (1,7), Ilaria Morassut (1,8), Charles Fieseler (9), Alessandro Fiorenzano (3), Molly M Stevens (6), Manuel Zimmer (9), Cedric Bardy (4,5), Malin Parmar (3), Jürgen A Knoblich (1, 10)*
-
-1. Institute of Molecular Biotechnology (IMBA) of the Austrian Academy of Sciences, Vienna BioCenter (VBC), Vienna, Austria
-2. Vienna BioCenter PhD Program, Doctoral School of the University of Vienna and Medical University of Vienna, Vienna, Austria
-3. Department of Experimental Medical Science, Developmental and Regenerative Neurobiology, Wallenberg Neuroscience Center, Lund Stem Cell Center, Lund University, Lund, Sweden
-4. South Australian Health and Medical Research Institute (SAHMRI), Laboratory for Human Neurophysiology and Genetics, Adelaide, SA, Australia
-5. Flinders Health and Medical Research Institute, Flinders University, Adelaide, SA, Australia
-6. Department of Materials, Department of Bioengineering, Institute of Biomedical Engineering, Imperial College London, SW7 2AZ London, UK
-7. Current Affiliation: Zebrafish Neurogenetics Unit, Institut Pasteur, Paris, France
-8. Current Affiliation: Department of Basic Neurosciences, Faculty of Medicine, University of Geneva, Geneva, Switzerland
-9. Department of Neuroscience and Developmental Biology, University of Vienna, Vienna, Austria
-10. Department of Neurology, Medical University of Vienna, Vienna, Austria
-*Correspondence to: juergen.knoblich@imba.oeaw.ac.at
+Reumann D, Krauditsch C, Novatchkova M, Sozzi W, Wong S, Zabolocki M, Priouret M, Doleschall B, Ritzau-Reid K, Piber M, Morassut I, Fieseler C, Fiorenzano A, Stevens M, Zimmer M, Bardy C, Parmar M, Knoblich JA. In vitro modeling of the human dopaminergic system using spatially arranged ventral midbrain–striatum–cortex assembloids. Nat Methods (2023). https://doi.org/10.1038/s41592-023-02080-x. 
 ```
+
+Direct link: https://doi.org/10.1038/s41592-023-02080-x
 
 Analysis 
 --------
